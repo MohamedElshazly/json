@@ -1,0 +1,19 @@
+{
+  "habits" : [
+  {
+    "id" : 1,
+    "content" : "Workout Daily",
+    "user" : "omni"
+   },
+    {
+    "id" : 2,
+    "content" : "practice pixel art",
+    "user" : "omni"
+   },
+    {
+    "id" : 3,
+    "content" : "deep work 2-4hrs",
+    "user" : "omni"
+   }
+  ]
+}
